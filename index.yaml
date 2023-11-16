@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demogitrepo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-16T21:12:00.63251263Z"
+    description: A Helm chart for Kubernetes
+    digest: 7cdf088627c3abfc43ec7b284203d0cd64f831b5c4ea69d6e254cd03230fec27
+    name: demogitrepo
+    type: application
+    urls:
+    - demogitrepo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-16T21:12:00.631658821Z"
